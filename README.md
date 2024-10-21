@@ -1,4 +1,4 @@
-# Smart Tmeperature Station
+# Smart Temeperature Station
 
 ## 1. Projekt leírása
 
