@@ -1,11 +1,18 @@
 # Smart Tmeperature Station
 
-## 1. Felhasznált eszközök
+## 1. Projekt leírása
+
+A DHT11 szenzor 2 másodpercenként megméri a hőmérsékletet és a páratartalmat.
+Az eredményt továbbítja a Blynk megfelelő virtulis pinjeire.
+Ha az értékek meghaladnak egy megadott értéket, pop-up értesítést küld a Blynken keresztül.
+
+## 2. Felhasznált eszközök
 
 - ESP32 WiFi modullal
 - DHT11 hőmérsékelet és páratartalom mérő szenzor
 - Jumper kábelek
 - Breadboard
+
 
 ![ImportedPhoto_1729241141883](https://github.com/user-attachments/assets/f5393edf-178b-4da6-818a-225284e5a1bf)
 ![blynk_web](https://github.com/user-attachments/assets/491ff1da-f560-4cd5-8243-d645dd029029)
